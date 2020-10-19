@@ -1,0 +1,8 @@
+h5py==2.10.0
+tensorflow=2.0.0
+Keras==2.3.1
+matplotlib==3.3.1
+numpy==1.17.2
+tqdm==4.48.2
+keras_self_attention==0.42.0
+scikit_learn==0.23.2
