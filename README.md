@@ -45,12 +45,12 @@ To optain the TCG dataset (around 650 MB), please send an email to *tcg.recognit
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *With this e-mail I agree that I will use the TCG dataset following the Creative 
 Common Attribution-NonCommercial 4.0 International License.*
 
-We will promptly reply with a download link. Enter the download link into */scripts/download_dataset.sh* 
-and run commands
+We will promptly reply with a download link. 
+Download the .zip file and copy it into `dataset`. Unzip using
 
 ```
-chmod +x download_dataset.sh
-./download_dataset.sh
+cd dataset
+unzip tcg_dataset.zip
 ```
 
 ##### License
